@@ -1,7 +1,7 @@
 astor==0.6
 certifi==2017.7.27.1
 coverage==4.4.1
-py==1.4.34
+py==1.10.0
 pytest==3.2.1
 pytest-cov==2.5.1
 PyYAML==3.12
